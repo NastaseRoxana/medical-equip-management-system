@@ -1,4 +1,4 @@
-# Medical equipments management system
+# Medical equipment management system
 
 
 ## Description
